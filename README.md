@@ -7,7 +7,7 @@
     <a href="https://github.com/BirdieMoon-peter"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:peter2005_li@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.kaggle.com/ZephyrZhong248"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-    <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
+    <a href="[https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21](https://www.xiaohongshu.com/user/profile/6090979d000000000101cc9a)"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
 </p>
 </div>
     
