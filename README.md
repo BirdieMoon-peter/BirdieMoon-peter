@@ -88,18 +88,9 @@
 <div align="center">
 <!-- 添加动态数据卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BirdieMoon-peter&theme=radical" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirdieMoon-peter&langs_count=8" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirdieMoon-peter&langs_count=5" width="50%" />
 
 </div>
-  
-  <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=BirdieMoon-peter&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
-
-<!-- 项目展示部分 - 统一标题样式并对齐图标 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-
 
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BirdieMoon-peter&theme=radical" width="100%" />
