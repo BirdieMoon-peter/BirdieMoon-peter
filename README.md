@@ -87,7 +87,7 @@
 <div align="center">
 <!-- 添加动态数据卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BirdieMoon-peter&theme=radical" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirdieMoon-peter&langs_count=5" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirdieMoon-peter&langs_count=4" width="50%" />
 
 </div>
 
