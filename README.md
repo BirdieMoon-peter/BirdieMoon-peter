@@ -87,8 +87,6 @@
 <div align="center">
 <!-- 添加动态数据卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BirdieMoon-peter&theme=radical" width="50%" />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BirdieMoon-peter&show_icons=true&theme=dark)
-</div>
 
 <!-- 实时贡献日历热图 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BirdieMoon-peter&theme=radical" width="100%" />
@@ -98,7 +96,7 @@
 <!-- 页脚 - 统一标题样式并对齐图标 -->
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  感谢访问我的 GitHub 主页!
+  这就是我的 GitHub 主页!
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h3>
 
@@ -107,4 +105,4 @@
 </p>
 
 <!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/> -->
